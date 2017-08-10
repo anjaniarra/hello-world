@@ -1,3 +1,5 @@
 # hello-world
 new repository
-new to git hub. exploring github
+hi,
+new to git hub. exploring github.
+thank u.
